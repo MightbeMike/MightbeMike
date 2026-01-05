@@ -24,45 +24,40 @@ I spend a lot of time living in Burp Suite, mapping application behavior, breaki
 
 
 -Projects and research
+- HYPERLINK
 
 
 Documented vulnerabilities and write-ups: [GitHub Repositories]
+- HyperLink
 
+  
 
 
 Security blogs and technical notes: [Blog link when ready]
+- HyberLink
 
 
 
 Home lab and demo environments for exploit reproduction
-
+- Hyperlink
+  
 
 
 Ask me about
-
-
-Web application pentesting methodology
-
-
-
-Burp Suite workflows and manual testing techniques
+- Web application pentesting methodology
+- Burp Suite workflows and manual testing techniques
+- XSS, CSRF, IDOR, session handling issues
+- Writing clear, developer-friendly vulnerability reports
 
 
 
-XSS, CSRF, IDOR, session handling issues
-
-
-
-Writing clear, developer-friendly vulnerability reports
-
-
-
-Get in touch
+Get in touch!
 LinkedIn: https://linkedin.com/in/michael-graziano-4657101b9
 
 Tools and technologies
 HTML, JavaScript, ASP.NET
 Burp Suite, Nmap, Tenable
-HTTP, TLS, authentication and session management
+HTTP, TLS, authentication and session 
+and many many MANY more. 
 
 <img width="100" height="100" alt="HTML-5-Badge-Logo" src="https://github.com/user-attachments/assets/db8d7bd3-48b8-453a-9ab7-6f9e715108c4" />
