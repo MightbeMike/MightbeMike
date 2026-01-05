@@ -30,3 +30,6 @@ A passionate Cyber Security Application Penetration Tester.
 
 - How to reach me - Linkedin
   [Michael Graziano](linkedin.com/in/michael-graziano-4657101b9)
+
+- Languages and Tools 
+[![Alt Text](https://kinsta.com/blog/html-vs-html5/)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
