@@ -1,9 +1,6 @@
 ## Hi there 👋 My name is Michael Graziano 
 
-test
 
-
-test
 <!--
 **MightbeMike/MightbeMike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-test
+A passionate Cyber Security Application Penetration Tester. 
