@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 A passionate Cyber Security Application Penetration Tester. 
+
+- I`m currently working on Application, Networking and cloud Security
+
+- My securirty blogs can be found on -
+
+- See my documented vulnerbilites!
+
+- Ask me about my Web app Penetrtion testing! 
