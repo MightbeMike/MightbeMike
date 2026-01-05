@@ -34,4 +34,4 @@ A passionate Cyber Security Application Penetration Tester.
 - Languages and Tools
   
 
-<img width="1100" height="600" alt="HTML-5-Badge-Logo" src="https://github.com/user-attachments/assets/db8d7bd3-48b8-453a-9ab7-6f9e715108c4" />
+<img width="100" height="100" alt="HTML-5-Badge-Logo" src="https://github.com/user-attachments/assets/db8d7bd3-48b8-453a-9ab7-6f9e715108c4" />
