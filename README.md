@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">I’m an application security penetration tester focused on real-world web application testing. Most of my work revolves around identifying, documenting, and clearly explaining security flaws in production-style environments, primarily ASP.NET and modern JavaScript stacks.
+<div align="center">
+
+I’m an application security penetration tester focused on real-world web application testing. Most of my work revolves around identifying, documenting, and clearly explaining security flaws in production-style environments, primarily ASP.NET and modern JavaScript stacks.
 
 I spend a lot of time living in Burp Suite, mapping application behavior, breaking assumptions, and writing reports that developers can actually use. My current work includes vulnerability research, secure application testing, and continued study toward offensive security certifications.
-. 
 
-![git logo](https://github.com/user-attachments/assets/d94a6d7f-5762-4291-ae38-89437fda9c7c) </p>
+![git logo](https://github.com/user-attachments/assets/d94a6d7f-5762-4291-ae38-89437fda9c7c)
+
+</div>
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
