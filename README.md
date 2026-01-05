@@ -33,4 +33,5 @@ A passionate Cyber Security Application Penetration Tester.
 
 - Languages and Tools
   
-[!(https://kinsta.com/blog/html-vs-html5/)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+
+<img width="1100" height="600" alt="HTML-5-Badge-Logo" src="https://github.com/user-attachments/assets/db8d7bd3-48b8-453a-9ab7-6f9e715108c4" />
