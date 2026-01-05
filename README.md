@@ -22,7 +22,7 @@ I spend a lot of time living in Burp Suite, mapping application behavior, breaki
 
 ![git logo](https://github.com/user-attachments/assets/d94a6d7f-5762-4291-ae38-89437fda9c7c)
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------
 -Projects and research
 - HYPERLINK
 
@@ -41,7 +41,7 @@ Security blogs and technical notes: [Blog link when ready]
 Home lab and demo environments for exploit reproduction
 - Hyperlink
   
-
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Ask me about
 - Web application pentesting methodology
