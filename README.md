@@ -15,23 +15,54 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A passionate Cyber Security Application Penetration Tester. 
+I’m an application security penetration tester focused on real-world web application testing. Most of my work revolves around identifying, documenting, and clearly explaining security flaws in production-style environments, primarily ASP.NET and modern JavaScript stacks.
+
+I spend a lot of time living in Burp Suite, mapping application behavior, breaking assumptions, and writing reports that developers can actually use. My current work includes vulnerability research, secure application testing, and continued study toward offensive security certifications.
+. 
 
 ![git logo](https://github.com/user-attachments/assets/d94a6d7f-5762-4291-ae38-89437fda9c7c)
 
 
-- I`m currently working on Application, Networking and cloud Security
+-Projects and research
 
-- My securirty blogs can be found on -
 
-- See my documented vulnerbilites!
+Documented vulnerabilities and write-ups: [GitHub Repositories]
 
-- Ask me about my Web app Penetrtion testing!
 
-- How to reach me - Linkedin
-  [Michael Graziano](linkedin.com/in/michael-graziano-4657101b9)
 
-- Languages and Tools
-  
+Security blogs and technical notes: [Blog link when ready]
+
+
+
+Home lab and demo environments for exploit reproduction
+
+
+
+Ask me about
+
+
+Web application pentesting methodology
+
+
+
+Burp Suite workflows and manual testing techniques
+
+
+
+XSS, CSRF, IDOR, session handling issues
+
+
+
+Writing clear, developer-friendly vulnerability reports
+
+
+
+Get in touch
+LinkedIn: https://linkedin.com/in/michael-graziano-4657101b9
+
+Tools and technologies
+HTML, JavaScript, ASP.NET
+Burp Suite, Nmap, Tenable
+HTTP, TLS, authentication and session management
 
 <img width="100" height="100" alt="HTML-5-Badge-Logo" src="https://github.com/user-attachments/assets/db8d7bd3-48b8-453a-9ab7-6f9e715108c4" />
