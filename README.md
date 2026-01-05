@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 -->
 A passionate Cyber Security Application Penetration Tester. 
 
+![git logo](https://github.com/user-attachments/assets/d94a6d7f-5762-4291-ae38-89437fda9c7c)
+
+
 - I`m currently working on Application, Networking and cloud Security
 
 - My securirty blogs can be found on -
