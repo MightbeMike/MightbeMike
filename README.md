@@ -26,4 +26,7 @@ A passionate Cyber Security Application Penetration Tester.
 
 - See my documented vulnerbilites!
 
-- Ask me about my Web app Penetrtion testing! 
+- Ask me about my Web app Penetrtion testing!
+
+- How to reach me - Linkedin
+  linkedin.com/in/michael-graziano-4657101b9
