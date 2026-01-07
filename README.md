@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Michael Graziano 
+<div align="center">## Hi there 👋 My name is Michael Graziano  </div>
 
 
 <!--
