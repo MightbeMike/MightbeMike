@@ -33,7 +33,7 @@ I spend a lot of time living in Burp Suite, mapping application behavior, breaki
 
 
 Documented vulnerabilities and write-ups: [GitHub Repositories]
-- HyperLink
+- https://github.com/MightbeMike/Web-App-Recon-and-Testing
 
   
 
