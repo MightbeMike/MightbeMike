@@ -31,14 +31,14 @@ I spend a lot of time living in Burp Suite, mapping application behavior, breaki
 My focus includes Application, 
 network and cloud security 
 
-Sometimes I write blogs om
+Personal website on
 - https://sites.google.com/view/mightymike/home
 
 Documented vulnerabilities and write-ups: [GitHub Repositories]
 - https://github.com/MightbeMike/Web-App-Recon-and-Testing
 
 Home lab and demo environments for exploit reproduction
-- Hyperlink
+- https://github.com/MightbeMike/WebBasedDev
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
